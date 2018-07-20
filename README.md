@@ -4,7 +4,11 @@ The coolest thing i can do with 1 line of code 😂
 
 ----------------
 
-Demo : [![](https://img.youtube.com/vi/aevB7K0CAM4/0.jpg)](https://www.youtube.com/watch?v=aevB7K0CAM4)
+Demo : 
+
+<div style="float: center">
+  <a href="https://youtu.be/aevB7K0CAM4"><img src="https://img.youtube.com/vi/aevB7K0CAM4/0.jpg"/></a>
+  </div>
 
 📌 What it does ?
 
