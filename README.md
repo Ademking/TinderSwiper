@@ -6,7 +6,7 @@ The coolest thing i can do with 1 line of code 😂
 
 Demo : 
 
-<div style="float: center">
+<div  align="center">
   <a href="https://youtu.be/aevB7K0CAM4"><img src="https://img.youtube.com/vi/aevB7K0CAM4/0.jpg"/></a>
   </div>
 
