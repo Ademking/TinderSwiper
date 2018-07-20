@@ -2,8 +2,6 @@
 
 The coolest thing i can do with 1 line of code 😂 
 
-----------------
-
 Demo : 
 
 <div  align="center">
