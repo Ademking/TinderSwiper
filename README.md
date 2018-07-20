@@ -23,4 +23,7 @@ This command takes 5 parameters :
 * [Duration]
 
 📌 Code: 
+
+```
 for /L %n in (1,1,1000) do (adb -d shell input swipe 500 630 714 722 100)
+```
